@@ -1,0 +1,23 @@
+.Deck-area {
+  margin-top: 80px;
+}
+
+.Draw-button {
+  margin-top: 10px;
+  background-color: blanchedalmond;
+  border-radius: 5px;
+  color: black;
+  border: 2px solid #7daa92;
+  padding: 5px 10px 5px 10px;
+}
+
+.Draw-button:hover {
+  background-color: #7daa92;
+  color: white;
+  border: 2px solid rgba(255, 235, 205, 0.836);
+}
+
+.Draw-title {
+  font-size: 3em;
+  text-transform: uppercase;
+}
